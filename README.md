@@ -1,2 +1,2 @@
-# dmytrokap17.github.io
+# Dmytro Kapusta - Front-End Devoloper
 Моё портфолио
