@@ -1,0 +1,12 @@
+appId: com.webstudio.studiomanager
+productName: Studio Manager
+files:
+  - dist/**/*
+  - package.json
+mac:
+  category: public.app-category.productivity
+  target:
+    - dmg
+    - zip
+extraMetadata:
+  main: dist/main/main.cjs
